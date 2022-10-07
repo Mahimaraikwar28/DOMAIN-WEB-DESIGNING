@@ -6,11 +6,22 @@
                 <h1>My First Heading</h1>
                 <p>My first paragraph.</p>
 
-Start tag         Element content          End tag  
+### Start tag     
    
- <h1>             My First Heading	     </h1>
- <p>	       My first paragraph	     </p>
- <br>	            none                      none
+ <h1>             	     
+ <p>	       	    
+ <br>	                               
+### Element content          
+ 
+ My First Heading
+ My first paragraph
+ none 
+            
+### End tag 
+ 
+</h1>
+</p>
+none
 
 
 Note: Some HTML elements have no content (like the <br> element). These elements are called empty elements.
