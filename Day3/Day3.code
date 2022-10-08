@@ -4,7 +4,7 @@
 
 <h2>HTML Links</h2>
 
-<p>HTML links are defined with the &lta&gt tag.</p> //
+<p>HTML links are defined with the &lta&gt tag.</p> // &lt; stands for lesser than (<) symbol and, the &gt; sign stands for greater than (>) symbol .
 
 <a href=" https://github.com/Mahimaraikwar28/DOMAIN-WEB-DESIGNING/new/main/Day3 ">Github Link</a>
 
