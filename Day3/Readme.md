@@ -4,6 +4,6 @@
     
 ### Example:
        
-     <a href="https://www.Github.com">This is a link</a>
+     <a href="">Github Link</a>
   
 ### Note: The link's destination is specified in the href attribute. 
