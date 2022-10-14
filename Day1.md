@@ -10,9 +10,9 @@
 * HTML elements tell the browser how to display the content
 * HTML elements label pieces of content such as "this is a heading", "this is a paragraph", "this is a link", etc.
  
- __INPUT: TO DESIGN A BASIC WEB PAGE,USING HTML's BASIC TAGS.
+ __INPUT: TO DESIGN A BASIC WEB PAGE,USING HTML's BASIC TAGS.__
  
- __OUTPUT: OUTPUT WILL DISPLAY A WEB PAGE DESIGNED USING BAISC TAGS OF HTML i.e, HEADING(h1) AND PARAGRAPH(p1) etc.
+ __OUTPUT: OUTPUT WILL DISPLAY A WEB PAGE DESIGNED USING BAISC TAGS OF HTML i.e, HEADING(h1) AND PARAGRAPH(p1) etc.__
  
  ### LOGIC OR EXPLANATION OF CODE:
  
