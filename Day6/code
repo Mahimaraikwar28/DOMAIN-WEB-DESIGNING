@@ -1,0 +1,24 @@
+## Never skip end tag:
+
+ <!DOCTYPE html>
+<html>
+<body> 
+
+<p>This is a paragraph.
+<p>This is a paragraph.
+
+</body>
+</html>
+
+
+## Empty HTML Elements:
+
+<!DOCTYPE html>
+<html>
+<body> 
+
+<p>This is a <br> paragraph with a line break.</p>
+
+</body>
+</html>
+
